@@ -1,0 +1,15 @@
+Spring Boot Quick Start 9 - Starting a Spring Boot application
+
+
+
+1) download java jdk
+2) setup the path
+3) download spring boot tools for netbeans
+
+in the spring boot sts 
+4) create a new spring boot starter applicatoin
+5) setup the dependecy and wait
+
+
+6) Create a class in the src>main>java
+this will be the main class
